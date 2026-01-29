@@ -1,0 +1,94 @@
+2026-01-29 00:59:59,729 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 00:59:59,729 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:02:06,243 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:02:06,248 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:03:44,782 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:03:44,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:03:54,992 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:03:55,052 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:03:55] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:04:06,934 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:04:06,945 - werkzeug - INFO - 10.200.3.24 - - [29/Jan/2026 01:04:06] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:04:06,984 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:04:06,984 - werkzeug - INFO - 10.200.3.24 - - [29/Jan/2026 01:04:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-29 01:07:47,370 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:07:47] "GET /api/health HTTP/1.1" 200 -
+2026-01-29 01:12:05,067 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:12:05,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:12:10,707 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:12:10,776 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:12:10] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:14:33,505 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:14:33] "GET /api/health HTTP/1.1" 200 -
+2026-01-29 01:15:09,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:15:09,846 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:15:18,432 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:15:18,506 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:15:18] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:15:31,805 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:15:31,805 - werkzeug - INFO - 10.200.3.24 - - [29/Jan/2026 01:15:31] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:15:50,874 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:15:50,876 - werkzeug - INFO - 10.200.3.24 - - [29/Jan/2026 01:15:50] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:18:28,923 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:18:28,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:18:49,850 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:18:49,850 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:18:49] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:24:44,919 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:24:44,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:25:00,745 - __main__ - INFO - User registered: test@example.com
+2026-01-29 01:25:00,747 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:00] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 201 -
+2026-01-29 01:25:17,195 - __main__ - INFO - User logged in: test@example.com
+2026-01-29 01:25:17,195 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:17] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 01:25:32,623 - __main__ - INFO - User logged in: test@example.com
+2026-01-29 01:25:32,623 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:32] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 01:25:40,529 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:40] "[35m[1mPOST /api/applications HTTP/1.1[0m" 201 -
+2026-01-29 01:25:47,398 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:47] "GET /api/applications HTTP/1.1" 200 -
+2026-01-29 01:25:58,107 - __main__ - ERROR - Exception in dashboard_stats: 'uploaded_at'
+Traceback (most recent call last):
+  File "C:\Users\SAURAV THAKUR\Desktop\NIRMAAN-PROJECT-main\NIRMAAN-PROJECT-main\backend_server.py", line 105, in decorated_function
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAURAV THAKUR\Desktop\NIRMAAN-PROJECT-main\NIRMAAN-PROJECT-main\backend_server.py", line 593, in dashboard_stats
+    'recent_documents': sorted(documents, key=lambda x: x['uploaded_at'], reverse=True)[:5]
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAURAV THAKUR\Desktop\NIRMAAN-PROJECT-main\NIRMAAN-PROJECT-main\backend_server.py", line 593, in <lambda>
+    'recent_documents': sorted(documents, key=lambda x: x['uploaded_at'], reverse=True)[:5]
+                                                        ~^^^^^^^^^^^^^^^
+KeyError: 'uploaded_at'
+
+2026-01-29 01:25:58,107 - __main__ - ERROR - Error: 'uploaded_at' - Details: None
+2026-01-29 01:25:58,107 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:25:58] "[35m[1mGET /api/analytics HTTP/1.1[0m" 500 -
+2026-01-29 01:26:42,060 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:26:42,060 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:29:13,086 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.200.3.24:5000
+2026-01-29 01:29:13,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 01:29:22,722 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:29:22,727 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:29:22] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:30:01,157 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:30:01,167 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:30:01] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-01-29 01:31:49,936 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:31:49,939 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:31:49] "[33mGET / HTTP/1.1[0m" 404 -
+2026-01-29 01:31:50,048 - __main__ - ERROR - Error: Endpoint not found - Details: None
+2026-01-29 01:31:50,048 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2026 01:31:50] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
