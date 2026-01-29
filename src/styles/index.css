@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* 👇 UPDATE: Use this single line for Tailwind v4 */
+@import "tailwindcss";
 
 @layer base {
   :root {
@@ -77,6 +76,7 @@
   /* ✅ FIX 1: Safe Border Color */
   * {
     border-color: hsl(var(--border));
+    border-style: solid; /* Added this to ensure borders are actually visible */
   }
   
   /* ✅ FIX 2: Safe Background Color */
