@@ -74,8 +74,9 @@
 }
 
 @layer base {
-  * {
-    @apply border-border;
+ * {
+    border-color: hsl(var(--border)); /* ✅ This is safe, standard CSS */
+    border-style: solid;
   }
   body {
     @apply bg-background text-foreground transition-colors duration-300;
