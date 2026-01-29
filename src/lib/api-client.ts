@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // 1. Setup API URL
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://applysmart-hq6m.onrender.com/api';
 
 // 2. Create Axios Client
 const client = axios.create({
