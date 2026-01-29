@@ -74,11 +74,15 @@
 }
 
 @layer base {
- * {
-    border-color: hsl(var(--border)); /* ✅ This is safe, standard CSS */
-    border-style: solid;
+  /* ✅ FIX 1: Safe Border Color */
+  * {
+    border-color: hsl(var(--border));
   }
+  
+  /* ✅ FIX 2: Safe Background Color */
   body {
-    @apply bg-background text-foreground transition-colors duration-300;
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-feature-settings: "rlig" 1, "calt" 1;
   }
 }
